@@ -1,7 +1,7 @@
 name: YNOT ENTERPRISES
 favicon: null
-layout_spectrum: 0.4965554210357368
-typography_spectrum: 0.8961067923810333
+layout_spectrum: 0
+typography_spectrum: 0.59728
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.8719914280809462
+  brandStrength: 1
   lightness: 0.02357395808212459
   saturation: 0.018953889375552535
   rhythmicContrast: 0.7005308424122632
