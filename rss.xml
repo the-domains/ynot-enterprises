@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[YNOT ENTERPRISES]]></title>
         <description><![CDATA[YNOT ENTERPRISES]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ynot-enterprises/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 16:53:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 17:01:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ynot-enterprises/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae5adfc4-3b70-4b3e-a14d-b256ddc7a4cc.jpg">]]></description>
-            <link>undefined042b08ec-ca7e-4aca-be86-ad99b47f5184/index.html</link>
+            <title><![CDATA[TRUE VISION STARTS HERE]]></title>
+            <description><![CDATA[<article><h1>TRUE VISION STARTS HERE</h1><p>The only way to improve people's lives and propel humanity forward is to create value.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d482ffe595967ca8945bd603fb777ea9102c9302.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ynot-enterprises/042b08ec-ca7e-4aca-be86-ad99b47f5184/index.html</link>
             <guid isPermaLink="false">042b08ec-ca7e-4aca-be86-ad99b47f5184</guid>
-            <pubDate>Fri, 25 Mar 2016 16:52:21 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2016 17:01:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
